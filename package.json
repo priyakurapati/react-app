@@ -1,0 +1,24 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "This is basic react app",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel buiild index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyakurapati/react-app.git"
+  },
+  "author": "priya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyakurapati/react-app/issues"
+  },
+  "homepage": "https://github.com/priyakurapati/react-app#readme",
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
